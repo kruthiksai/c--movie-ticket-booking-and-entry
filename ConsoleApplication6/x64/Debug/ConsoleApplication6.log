@@ -1,0 +1,43 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(35,30): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(64,15): warning C4101: 'row': unreferenced local variable
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(143,57): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(143,57): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(152,1): warning C4102: 'cv': unreferenced label
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(172,66): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(172,44): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(172,129): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\saikr\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(172,97): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  ConsoleApplication6.vcxproj -> C:\Users\saikr\source\repos\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe
